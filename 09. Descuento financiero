@@ -1,1 +1,99 @@
+# Descuento Financiero
+
+## 1. Introducción
+
+El descuento financiero es el proceso mediante el cual se calcula el valor actual de una cantidad que se recibirá en el futuro.
+
+En términos simples:
+
+Es traer un valor futuro al presente aplicando una tasa de interés.
+
+Este concepto es fundamental en matemática financiera porque permite:
+
+- Evaluar inversiones
+- Analizar pagarés
+- Valorar facturas
+- Calcular el valor presente de obligaciones
+
+En Colombia, el descuento financiero es común en operaciones como:
+
+- Factoring
+- Descuento de títulos valores
+- Evaluación de proyectos
+- Análisis de flujos de caja
+
+---
+
+## 2. Concepto básico
+
+Si una persona recibirá dinero en el futuro, ese dinero tiene un valor menor hoy.
+
+El descuento financiero calcula cuánto vale hoy esa cantidad futura.
+
+---
+
+## 3. Descuento racional (o matemático)
+
+Es el método basado en interés compuesto.
+
+### Fórmula del valor presente:
+
+VP = VF / (1 + i)^n
+
+Donde:
+
+- VP = Valor presente
+- VF = Valor futuro
+- i = Tasa de interés por período
+- n = Número de períodos
+
+Este es el método técnicamente correcto desde el punto de vista financiero.
+
+---
+
+## 4. Ejemplo práctico
+
+Supongamos:
+
+- Valor futuro: $5.000.000 COP
+- Tasa anual: 12%
+- Tiempo: 2 años
+
+Cálculo:
+
+VP = 5.000.000 / (1.12)^2  
+VP = 5.000.000 / 1.2544  
+VP ≈ 3.987.240 COP
+
+Esto significa que recibir $5.000.000 en 2 años equivale hoy a aproximadamente $3.987.240 COP.
+
+---
+
+## 5. Descuento comercial (o bancario)
+
+Es un método simplificado utilizado tradicionalmente en operaciones comerciales.
+
+Fórmula:
+
+D = VF × i × n
+
+Donde:
+
+- D = Descuento
+- VF = Valor futuro
+- i = Tasa de descuento
+- n = Número de períodos
+
+El valor recibido es:
+
+Valor líquido = VF − D
+
+Este método puede generar un descuento mayor que el racional.
+
+---
+
+## 6. Diferencia entre descuento racional y comercial
+
+| Característica | Descuento Racional | Descuento Comercial |
+|
 
