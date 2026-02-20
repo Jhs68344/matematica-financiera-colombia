@@ -1,47 +1,98 @@
-# Matemática Financiera en Colombia
+# Matemática Financiera Aplicada en Colombia 🇨🇴
 
-Repositorio técnico especializado en los fundamentos de la matemática financiera aplicados al contexto económico colombiano.
+Repositorio técnico enfocado en los fundamentos de matemática financiera aplicados al contexto colombiano.
 
-Este proyecto desarrolla los conceptos esenciales utilizados en:
+Este proyecto desarrolla conceptos esenciales utilizados en:
+
 - Evaluación de créditos
-- Análisis de tasas de interés
-- Amortización bancaria
+- Análisis de inversiones
+- Educación financiera
+- Modelos empresariales
+- Valoración financiera básica
+
+---
+
+## 🎯 Objetivo
+
+Construir una base sólida en:
+
 - Valor del dinero en el tiempo
+- Interés simple y compuesto
+- Anualidades
+- Amortización
+- Inflación en Colombia
+- Créditos colombianos
+- Descuento financiero
+- Conversión de tasas
+- Gradientes
+- Equivalencia financiera
+
+---
+
+## 📘 Contenido del Repositorio
+
+### 🔹 Fundamentos
+
+- Valor del dinero en el tiempo
+- Interés simple
+- Interés compuesto
+- Amortización
+- Inflación en Colombia
+- Créditos en Colombia
+
+---
+
+### 🔹 Herramientas Financieras
+
+- Anualidades
+- Equivalencia financiera
+- Conversión de tasas
+- Descuento financiero
+- Gradientes financieros
+
+---
+
+### 🔹 Aplicación Práctica
+
+- Casos prácticos
+- Ejercicios resueltos
 - Aplicaciones empresariales
+- Glosario financiero
 
-## Objetivo
+---
 
-Construir una base técnica sólida en matemática financiera con ejemplos prácticos adaptados al mercado colombiano.
+## 🌎 Enfoque Regional
 
-## Contenido
+Este repositorio incorpora:
 
-1. Valor del dinero en el tiempo
-2. Interés simple
-3. Interés compuesto
-4. Conversión de tasas
-5. Anualidades
-6. Amortización
-7. Inflación en Colombia
-8. Créditos bancarios colombianos
-9. Equivalencia financiera
-10. Gradientes
-11. Descuento financiero
-12. Casos prácticos
-13. Ejercicios resueltos
-14. Aplicaciones empresariales
-15. Glosario financiero
-
-## Enfoque colombiano
-
-Se incluyen ejemplos con:
-- Tasas del sistema financiero colombiano
-- Referencias económicas nacionales
+- Tasas de interés colombianas
 - Contexto inflacionario local
+- Sistema financiero colombiano
+- Ejemplos aplicados al entorno empresarial nacional
 
-## Público objetivo
+---
 
-- Estudiantes de finanzas
-- Analistas financieros
-- Contadores
-- Profesionales del sector bancario
+## 🔗 Ecosistema Relacionado
+
+Este repositorio forma parte de un ecosistema técnico más amplio:
+
+- Matemática Financiera (Fundamentos)
+- Valoración Empresarial en Colombia
+- Consultoría Financiera Estratégica
+
+---
+
+## 📈 Próximas Extensiones
+
+- Simuladores financieros básicos
+- Modelos automatizados en Excel
+- Ejercicios sectoriales específicos
+- Integración con modelos de valoración empresarial
+
+---
+
+## ⚖️ Nota
+
+Este material tiene fines académicos y formativos.  
+Las decisiones financieras reales deben considerar condiciones actuales del mercado.
 
